@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">reddit,meetbeautiful</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_custom_list_view">CustomListViewActivity</string>
+    <string name="title_activity_check_city">CheckCityActivity</string>
+
+</resources>
